@@ -12,7 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbe4c80-21c3-44b6-ab4f-880a657bd307" name="Changes" comment="initial Commit" />
+    <list default="true" id="9dbe4c80-21c3-44b6-ab4f-880a657bd307" name="Changes" comment="Two more Days :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "qcecode"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="78cc33de-40cb-4b59-9ef0-dda15d1b8668" />
+        <option name="url" value="https://github.com/qcecode/TestJS.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,7 +78,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.2629.js">
+  <component name="RunManager" selected="Node.js.2666.js">
     <configuration name="WebApplication1: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DaysOfJS/DaysOfJS.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
@@ -163,10 +178,10 @@
     <configuration name="2634.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DaysOfJS/2634.js" working-dir="$PROJECT_DIR$/DaysOfJS">
       <method v="2" />
     </configuration>
-    <configuration name="2665.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DaysOfJS/2665.js" working-dir="$PROJECT_DIR$/DaysOfJS">
+    <configuration name="2666.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DaysOfJS/2666.js" working-dir="$PROJECT_DIR$/DaysOfJS">
       <method v="2" />
     </configuration>
-    <configuration name="TsTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsTest/TsTest.js" working-dir="$PROJECT_DIR$/jsTest">
+    <configuration name="2703.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DaysOfJS/2703.js" working-dir="$PROJECT_DIR$/DaysOfJS">
       <method v="2" />
     </configuration>
     <configuration name="WebApplication1/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
@@ -218,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.2666.js" />
+        <item itemvalue="Node.js.2703.js" />
         <item itemvalue="Node.js.2629.js" />
         <item itemvalue="Node.js.2626.js" />
         <item itemvalue="Node.js.2634.js" />
-        <item itemvalue="Node.js.2665.js" />
-        <item itemvalue="Node.js.TsTest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +251,7 @@
       <updated>1697519799522</updated>
       <workItem from="1697519807652" duration="1185000" />
       <workItem from="1697521280667" duration="17079000" />
-      <workItem from="1697606807149" duration="5265000" />
+      <workItem from="1697606807149" duration="7175000" />
     </task>
     <task id="LOCAL-00001" summary="initial Commit">
       <option name="closed" value="true" />
@@ -246,18 +261,47 @@
       <option name="project" value="LOCAL" />
       <updated>1697611904814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update to Workspace">
+      <option name="closed" value="true" />
+      <created>1697612263820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697612263820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Two more Days :)">
+      <option name="closed" value="true" />
+      <created>1697613489496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697613489496</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -266,7 +310,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial Commit" />
+    <MESSAGE value="update to Workspace" />
+    <MESSAGE value="Two more Days :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two more Days :)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
