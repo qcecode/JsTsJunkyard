@@ -18,7 +18,7 @@ var chunk1 = function(arr, size) {
     return returnArr;
 };
 
-// second better try
+// second better try test
 
 var chunk = function(arr, size) {
     const chunkedArray = [];
