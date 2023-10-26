@@ -13,4 +13,3 @@ Array.prototype.groupBy = function(fn) {
         return grouped;
     }, {})
 };
-
