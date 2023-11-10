@@ -68,21 +68,18 @@ var findAnagrams = function(s, p) {
     for (let windowEnd = 0; windowEnd < s.length; windowEnd++) {
         let endChar = s.charAt(windowEnd);
         sMap.set(endChar, (sMap.get(endChar) || 0) + 1);
-
-        // Sobald die Größe des Fensters die Länge von p erreicht hat
+        
         if (windowEnd - windowStart + 1 === p.length) {
-            // Vergleichen Sie die Maps direkt, anstatt eine Funktion aufzurufen
             if (mapsAreEqual(pMap, sMap)) {
                 resultArr.push(windowStart);
             }
-
-            // Entfernen Sie das Startzeichen, da das Fenster verschoben wird
+            
             let startChar = s.charAt(windowStart);
             sMap.set(startChar, sMap.get(startChar) - 1);
             if (sMap.get(startChar) === 0) {
                 sMap.delete(startChar);
             }
-            windowStart++; // Verschieben Sie das Fenster
+            windowStart++;
         }
     }
 
