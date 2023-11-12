@@ -33,3 +33,6 @@ $RECYCLE.BIN/
 *.log
 *.bak
 *.swp
+
+# Node Modules
+*node_modules/*
